@@ -32,7 +32,7 @@ window.addEventListener("load", (event) => {
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/300px-Flag_of_Germany.svg.png", 
         "",
         1,
-        [["Wessi_Heiko", "Die ganzen Soldaten sind aber immer noch da."], ["UdSSR", "Pah, noch so eine Kapitaldiktatur. Ihr seid doch alles nur amerikanische Schergen!"], ["USA", "Ok, Schwurbler. @UdSSR"]],
+        [["Wessi_Heiko", "Die ganzen Soldaten sind aber immer noch da.🤔"], ["UdSSR", "Pah, noch so eine Kapitaldiktatur. Ihr seid doch alles nur amerikanische Schergen!"], ["USA", "Ok, Schwurbler. @UdSSR"]],
         "https://webarchiv.bundestag.de/archive/2009/1127/kulturundgeschichte/geschichte/ausstellungen/verfassung/tafel27/index.html#:~:text=Am%2023.,war%20die%20Bundesrepublik%20Deutschland%20gegründet"
     );
     insertDiv(
@@ -62,7 +62,7 @@ window.addEventListener("load", (event) => {
         "https://static.dw.com/image/15834007_604.jpg", 
         "",
         3,
-        [["Ossi_Heinrich", "Jetzt werde ich auch noch vom eigenen Land überwacht?"], ["BRD", "Sieht nicht so demokratisch aus."], ["USA", "Cringe"], ["UdSSR", "Endlich muss der KGB nicht mehr alles machen."]],
+        [["Ossi_Heinrich", "Jetzt werde ich auch noch vom eigenen Land überwacht?"], ["BRD", "Sieht nicht so demokratisch aus.🤔"], ["USA", "Cringe"], ["UdSSR", "Endlich muss der KGB nicht mehr alles machen."]],
         "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/weg-nach-osten/aufbau-des-mfs.html"
     );
     insertDiv(
@@ -137,12 +137,12 @@ window.addEventListener("load", (event) => {
     );
     insertDiv(
         "DDR", 
-        "Frohe Nachrichten, heute haben wir den antifaschistischen Schutzwall errichtet. Hier stoppt das Kriegstreiben.", 
+        "Frohe Nachrichten, heute haben wir den antifaschistischen Schutzwall errichtet. Hier stoppt das Kriegstreiben.🧱", 
         "13. August 1961", 
         "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_East_Germany_%281955%E2%80%931990%29.svg", 
         "https://www.jugendopposition.de/cache/images/4/152304-st-galerie.jpg?CB25B",
         11,
-        [["BRD", "Hat das vielleicht nicht auch was mit den Flüchtlingen zu tun?"], ["USA", "Sieht eher aus wie ein Schutzwall nach innen, vielleicht wollt ihr es doch einfach Mauer nennen?"], ["Ossi_Heinrich", "Da hab ich mir doch gerade einen Job in Westberlin gesucht."]],
+        [["BRD", "Hat das vielleicht nicht auch was mit den Flüchtlingen zu tun?🤔"], ["USA", "Sieht eher aus wie ein Schutzwall nach innen, vielleicht wollt ihr es doch einfach Mauer nennen?"], ["Ossi_Heinrich", "Da hab ich mir doch gerade einen Job in Westberlin gesucht."]],
         "https://www.hdg.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/mauerbau/13-august-1961-mauerbau.html"
     );
     insertDiv(
@@ -177,7 +177,7 @@ window.addEventListener("load", (event) => {
     );
     insertDiv(
         "DDR", 
-        "Normale Beziehungen zwischen Ost und West! Mit dem Grundlagenvertrag geben wir uns beide Anerkennung. Jetzt muss der Rest der Welt das auch noch.", 
+        "Normale Beziehungen zwischen Ost und West! Mit dem Grundlagenvertrag geben wir uns beide Anerkennung. Jetzt muss der Rest der Welt das auch noch.🌎", 
         "31. Juli 1973", 
         "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_East_Germany_%281955%E2%80%931990%29.svg", 
         "",
@@ -197,7 +197,7 @@ window.addEventListener("load", (event) => {
     );
     insertDiv(
         "BRD", 
-        "Wir Demokraten helfen ja gerne, das zählt auch im Osten. Mit unserem Milliardenkredit geht die DDR erstmal nicht Bankrott.", 
+        "Wir Demokraten helfen ja gerne, das zählt auch im Osten. Mit unserem Milliardenkredit geht die DDR erstmal nicht Bankrott.💸💸💸", 
         "1. Juli 1983", 
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/300px-Flag_of_Germany.svg.png", 
         "",
@@ -212,7 +212,7 @@ window.addEventListener("load", (event) => {
         "https://upload.wikimedia.org/wikipedia/commons/c/c1/Coat_of_arms_of_East_Germany_%281955%E2%80%931990%29.svg", 
         "https://www.jugendopposition.de/cache/images/9/153539-st-fancyzoom.jpg?B2C8F",
         18,
-        [["Stasi", "Bitte was?"], ["Ossi_Heinrich", "Endlich kann ich meine Westfamilie wieder sehen."], ["BRD", "Heute Mauerfall, morgen Demokratie!"]],
+        [["Stasi", "Bitte was?"], ["Ossi_Heinrich", "Endlich kann ich meine Westfamilie wieder sehen."], ["BRD", "Heute Mauerfall, morgen Demokratie!🎉"]],
         "https://www.lpb-bw.de/gruende-mauerfall"
     );
 });
